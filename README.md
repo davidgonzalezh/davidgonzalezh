@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @davidgonzalezh
+- 🧑🏻‍🏫 I'm a University Professor @ ITM (Medellín, Colombia)
 - 👀 I’m interested in networking, Mikrotik, teaching, coding, IT and music
 - 🌱 I’m currently learning #Python, C#
 - 💞️ I’m looking to collaborate on 
